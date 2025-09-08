@@ -1,4 +1,4 @@
-- ## Hoofdstuk 2 - Manipulating files
+- ## Bash Commands - Manipulating files
 - | **Command**      | **Description**                   | **Example**              |
   | ---------------- | --------------------------------- | ------------------------ |
   | `>`              | Redirect output to filename       | `$ echo foo > foo.txt`   |
