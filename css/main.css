@@ -1,9 +1,16 @@
 .nav-menu {
   text-align: right;
 }
-.nav-menu a {
+.nav-menu a,
+.img-underline {
   text-decoration: none;
 }
 .nav-spacing {
   margin-left: 10px;
+}
+header {
+  margin: 0 0 0 80px;
+}
+.header-title {
+  text-align: center;
 }
